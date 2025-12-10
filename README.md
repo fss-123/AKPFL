@@ -1,6 +1,8 @@
 # AKPFL
 AKPFL: A Personalized Federated Learning  Architecture to Alleviate Statistical Heterogeneity
 
+http://poster-openaccess.com/article_detail.php?paper_id=2521&conf=ICIC&year=2025
+
 
 
 # PFLlib: Personalized Federated Learning Algorithm Library
