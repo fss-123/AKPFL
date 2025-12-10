@@ -5,8 +5,6 @@ http://poster-openaccess.com/article_detail.php?paper_id=2521&conf=ICIC&year=202
 
 
 
-# PFLlib: Personalized Federated Learning Algorithm Library
-
 
 *If you need another data set, just write another code to download it and then use the utils.*
 
